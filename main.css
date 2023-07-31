@@ -1,31 +1,31 @@
 h1 {
-    font-size: ;
+    font-size: 45px;
     font-family: ;
-    padding: ;
-    margin: ;
+    padding: 10px;
+    margin: 16px;
     font-weight: ;
     text-decoration: ;
-    color: ;
-    background-color: ;
+    color: darkgoldenrod;
+    background-color: lemonchiffon;
 }
 
 h2 {
-    font-size: ;
+    font-size: 30px;
     font-family: ;
-    padding: ;
-    margin: ;
+    padding: 10px;
+    margin: 16px;
     font-weight: ;
-    color: ;
-    background-color: ;
+    color: darkolivegreen;
+    background-color: lemonchiffon;
 }
 
 p {
     font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-size: 16px;
+    padding: 5px;
+    margin: 16px;
+    color: black;
+    background-color: lemonchiffon;
 }
 
 .logo {
